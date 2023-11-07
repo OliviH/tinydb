@@ -1,18 +1,18 @@
 {
-  "name" : "tinydb",
-  "description" : "tiny json file based datebase for small nodejs projects",
-  "version" : "0.1.0",
-  "author" : "iSayme <isaymeorg@gmail.com>",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/isayme/tinydb.git"
+  "name": "tinydb",
+  "description": "tiny json file based datebase for small nodejs projects",
+  "version": "0.1.0",
+  "author": "iSayme <isaymeorg@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isayme/tinydb.git"
   },
-  "keywords" : [
+  "keywords": [
     "database",
-	"json",
-	"tiny",
-	"small"
+    "json",
+    "tiny",
+    "small"
   ],
-  "main" : "tinydb.js",
-  "license" : "MIT"
+  "main": "tinydb.js",
+  "license": "MIT"
 }
